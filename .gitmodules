@@ -1,0 +1,6 @@
+[submodule "ext1"]
+	path = ext1
+	url = git@github.com:ejacky/submodule-ext1.git
+[submodule "ext2"]
+	path = ext2
+	url = git@github.com:ejacky/submodule-ext2.git
